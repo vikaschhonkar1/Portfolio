@@ -1,9 +1,9 @@
 module.exports = {
   pathPrefix: '',
-  siteUrl: 'https://rohtashtalan.com',
-  siteTitle: 'Rohtash Talan',
+  siteUrl: 'https://vikaschhonkar.com',
+  siteTitle: 'Vikas Chhonkar',
   siteDescription: 'Logbook of a software developer',
-  author: 'Rolwin Reevan',
+  author: 'Vikas Chhonkar',
   postsForArchivePage: 3,
   defaultLanguage: 'en',
   disqusScript: process.env.DISQUS_SCRIPT || 'https://rolwinreevan.disqus.com/embed.js',
@@ -15,10 +15,10 @@ module.exports = {
     tag: 'tags',
   },
   social: {
-    github: 'https://github.com/rolwin100',
-    facebook: 'https://www.facebook.com/rolwin.monteiro',
-    twitter: 'https://twitter.com/rolwin100',
-    instagram: 'https://www.instagram.com/reevan100/',
+    github: 'https://github.com/vikaschhonkar1',
+    facebook: 'https://www.facebook.com/vikas.chhonkar.58/',
+    twitter: 'https://twitter.com/vikaschhonkar1',
+    instagram: 'https://www.instagram.com/vikaschhonkar1/',
     rss: '/rss.xml',
   },
   tags: {
