@@ -6,10 +6,10 @@ import { stripTags, domHtml } from '../../../utils/stripTags';
 import SEO from '../../Seo';
 
 const pageText = {
-  paraOne: `Hello !! My name is Rolwin Reevan Monteiro. I'm a full stack web developer who is
-    passionate about various web technologies. I like to experiment with different web
-    technologies. I have an experience of nearly 3 years working with LAMP stack, MERN stack
-    and ELK stack. Building fancy UI's just like this one that your seeing 😅 and writing blogs about tech stacks
+  paraOne: `Hello !! My name is Vikas Chhonkar. I'm a Software Development Engineer who is
+    passionate about various web and android technologies. I like to experiment with different web
+    technologies. I have an experience of nearly 3 years working with LAMP stack and MERN stack
+    . Building fancy UI's just like this one that your seeing 😅 and writing blogs about tech stacks
     is what Rolwin loves to do. Check my blog which I update every week for some Javascript and some
     cool notes on web technologies.`,
   paraTwo: `Currently I work mostly with Javascript technologies like ReactJS and NodeJS. I also
@@ -27,7 +27,7 @@ const AboutMe = () => {
           title="About"
           description={description}
           path=""
-          keywords={['Rolwin', 'Reevan', 'Monteiro', 'FullStack developer', 'Javascript', 'ReactJS', 'NodeJS', 'Gatsby']}
+          keywords={['Vikas', 'vikaschhonkar1', 'android', 'FullStack developer', 'Java', 'Flutter', 'UI/UX', 'app']}
         />
         <h1 className="titleSeparate">About Me</h1>
         <p>
@@ -42,7 +42,7 @@ const AboutMe = () => {
             height={60}
             alt="location image"
             textH4="Born and bought up in"
-            textH3="Mangalore, KA, India"
+            textH3="Faridabad, Haryana, India"
           />
         </Col>
         <Col xs={24} sm={24} md={12} lg={8}>
